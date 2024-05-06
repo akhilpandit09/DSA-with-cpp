@@ -14,7 +14,7 @@ int main()
     return 0;
 }
 
-// pattern Que 3
+// pattern Que 4
 
 // 5 4 3 2 1
 // 5 4 3 2 1
