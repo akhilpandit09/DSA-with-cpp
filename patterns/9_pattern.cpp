@@ -27,6 +27,18 @@ int main()
         }
         cout<<endl;
     }
+    cout<<"-------------------------------------"<<endl;
+
+    //third approach
+    for (int row = 1; row <= 5; row++)
+    {
+        for (int col = 1; col <= 5; col++)
+        {
+            char name = 'a' ;
+            cout << char(name + col - 1) << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }
 
