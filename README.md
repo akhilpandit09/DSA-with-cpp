@@ -24,7 +24,7 @@ Welcome to my Data Structures and Algorithms repository implemented in C++! This
  
 ## Patterns
 
-[![Patterns](https://img.shields.io/badge/Pattern-Repository-blueviolet)]((https://github.com/akhilpandit09/DSA-with-cpp/tree/master/patterns))
+[![Patterns](https://img.shields.io/badge/Pattern-Repository-green.svg)](https://github.com/akhilpandit09/DSA-with-cpp/tree/master/patterns)
 
 
 ## Array
